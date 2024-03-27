@@ -14,6 +14,7 @@ Procedure:
 2.Create snapshot
 
 ![image](https://github.com/AthullyaR/AWS_project/assets/78737460/72f91975-e77e-49f4-ab13-92d71ae29002)
+
 3.Create a lambda function
 
 ![image](https://github.com/AthullyaR/AWS_project/assets/78737460/ef4a58e1-718d-4397-8cc2-4f54b8da45d7)
