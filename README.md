@@ -7,11 +7,15 @@ Description:
 The Lambda function fetches all EBS snapshots owned by the same account ('self') and also retrieves a list of active EC2 instances (running and stopped). For each snapshot, it checks if the associated volume (if exists) is not associated with any active instance. If it finds a stale snapshot, it deletes it, effectively optimizing storage costs.
 
 Procedure:
+
 1.Create an instance
+
 ![image](https://github.com/AthullyaR/AWS_project/assets/78737460/b67b4b11-a066-4d37-8390-4650918a30af)
 2.Create snapshot
+
 ![image](https://github.com/AthullyaR/AWS_project/assets/78737460/72f91975-e77e-49f4-ab13-92d71ae29002)
 3.Create a lambda function
+
 ![image](https://github.com/AthullyaR/AWS_project/assets/78737460/ef4a58e1-718d-4397-8cc2-4f54b8da45d7)
 4.Create policy
 ![image](https://github.com/AthullyaR/AWS_project/assets/78737460/7e220c5d-0f3d-4109-aeb6-7250d9d78edd)
