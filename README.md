@@ -1,6 +1,6 @@
 # AWS_project
-##AWS Cloud Cost Optimization - Identifying Stale Resources
-###Identifying Stale EBS Snapshots
+## AWS Cloud Cost Optimization - Identifying Stale Resources
+### Identifying Stale EBS Snapshots
 A Lambda function is created that identifies EBS snapshots that are no longer associated with any active EC2 instance and deletes them to save on storage costs.
 
 Description:
