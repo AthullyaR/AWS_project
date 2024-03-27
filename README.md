@@ -23,6 +23,7 @@ Procedure:
 5.Increse exec time
 
 ![image](https://github.com/AthullyaR/AWS_project/assets/78737460/99136e4f-6c47-4309-9de9-f79fab5707b5)
+
 6.when no stale resources
 
 ![image](https://github.com/AthullyaR/AWS_project/assets/78737460/4a42adfa-f96f-48c8-b9fc-c4369bf0545e)
@@ -38,6 +39,7 @@ Procedure:
 10.Specify the schedule
 
 ![image](https://github.com/AthullyaR/AWS_project/assets/78737460/7df35ce4-b764-412a-a300-0565c24a74e2)
+
 11.Select the target
 
 ![image](https://github.com/AthullyaR/AWS_project/assets/78737460/efe78d6c-6e0d-4911-a8d5-7c431563c85a)
